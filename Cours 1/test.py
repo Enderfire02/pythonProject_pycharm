@@ -48,7 +48,7 @@ print(somme)
 '''
 
 '''
-Cours 2
+14102022_cyrus_valette_EPSI
 exercice "micros"
 '''
 
